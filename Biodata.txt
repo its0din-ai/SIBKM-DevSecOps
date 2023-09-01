@@ -1,2 +1,6 @@
-Nama
-Asal Kota
+Nama :
+Nasrull
+Asal Kota :
+Bekasi
+Kampus :
+PNJ
