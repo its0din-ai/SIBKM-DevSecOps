@@ -1,5 +1,4 @@
 Nama :
-<<<<<<< HEAD
 Nasrull
 Asal Kota :
 Bekasi
@@ -15,4 +14,4 @@ Umur :
 20
 No WA :
 089602614136
->>>>>>> nasrull
+
